@@ -39,7 +39,7 @@ Este repositório contém três conjuntos de testes automatizados.
 4. **Método**: PUT
    - **Objetivo**: Validar se a atualização de um campo foi bem sucedida.
    - **Status**: Pass ✅
-   - 
+     
 5. **Método**: DELETE
    - **Objetivo**: Validar se um dispositivo foi excluído corretamente.
    - **Status**: Pass ✅
@@ -57,7 +57,7 @@ Este repositório contém três conjuntos de testes automatizados.
 3. **Logout do app**: O logout é realizado corretamente ao clicar no botão de logout.
     - **Status**: Pass ✅
 
-**Teste de Performance (Teste de Carga)**
+## **Teste de Performance (Teste de Carga)**
 
 ### Cenários de Testes
 
@@ -67,19 +67,20 @@ Este repositório contém três conjuntos de testes automatizados.
 
 ### Resultados
 
-- **Número de amostras**: 50
-- **Tempo médio de resposta**: 61.63 ms
-- **Tempo mínimo**: 6.44 ms
-- **Tempo máximo**: 261.75 ms
-- **Desvio padrão**: 47.47 ms
-- **Código de resposta**: 200 (OK)
-- **Erros**: 0%
-- **Throughput**: 9.35 requisições/seg
-- **Dados recebidos**: 33 KB
-- **Dados enviados**: 4.4 KB
-- **Tamanho médio da resposta**: 6933.6 bytes
+- **Usuários Virtuais (VUs) simultâneos**: 10.
+- **Duração do teste**: 5 segundos.
+- **Status da Resposta**: 100% das requisições retornaram status 200.
+- **Total de Requisições**: 50 requisições executadas.
+- **Throughput**: 9.35 requisições por segundo.
+- **Dados Recebidos**: 33 KB.
+- **Dados Enviados**: 4.4 KB.
+- **Duração Média da Requisição**: 61.63ms.
+- **Tempo de Espera (média)**: 60.16ms.
+- **Tempo Mínimo**: 6.44ms.
+- **Tempo Máximo**: 261.75ms.
+- **Taxa de Falhas**: 0% (sem falhas registradas).
 ##
+App Android Testado: Wikipedia<br>
 Aplicação Web Testada: https://automationpratice.com.br/login<br>
 API Mock Testada: https://restful-api.dev/<br>
-App Android Testado: Wikipedia<br>
 API Mock do Teste de Performance: https://github.com/qazando/wiremock
