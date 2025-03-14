@@ -1,0 +1,10 @@
+appId: org.wikipedia
+tags:
+  - android
+  - passing
+---
+- launchApp
+- tapOn: "Search Wikipedia"
+- inputText: "Java"
+- tapOn: "Java (programming language)"
+- assertVisible: "Java (programming language)"

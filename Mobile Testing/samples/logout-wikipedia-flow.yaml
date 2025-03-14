@@ -1,0 +1,17 @@
+appId: org.wikipedia
+---
+- launchApp
+- tapOn:
+    id: org.wikipedia:id/nav_more_container
+- tapOn:
+    id: org.wikipedia:id/main_drawer_settings_container
+- scrollUntilVisible:
+    element:
+      id: logoutButton
+- tapOn:
+    id: org.wikipedia:id/logoutButton
+- tapOn:
+    id: android:id/button1
+- tapOn:
+    id: org.wikipedia:id/nav_more_container
+- assertVisible: LOG IN / JOIN WIKIPEDIA

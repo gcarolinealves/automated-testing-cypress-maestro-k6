@@ -1,0 +1,18 @@
+appId: org.wikipedia
+---
+- launchApp
+- tapOn:
+    id: org.wikipedia:id/nav_tab_edits
+- tapOn:
+    id: org.wikipedia:id/positiveButton
+- tapOn:
+    id: org.wikipedia:id/create_account_login_button
+- tapOn:
+    id: org.wikipedia:id/login_username_text
+- inputText: maestrousername
+- tapOn:
+    id: org.wikipedia:id/login_password_input
+- inputText: maestropassword
+- tapOn:
+    id: org.wikipedia:id/login_button
+- assertVisible: Maestrousername
