@@ -67,7 +67,7 @@
 
 - **Usuários Virtuais (VUs) simultâneos**: 10.
 - **Duração do teste**: 5 segundos.
-- **Status da Resposta**: 100% das requisições retornaram status 200.
+- **Status da Resposta**: 100% das requisições retornaram status 200 (OK).
 - **Total de Requisições**: 50 requisições executadas.
 - **Throughput**: 9.35 requisições por segundo.
 - **Dados Recebidos**: 33 KB.
