@@ -46,7 +46,7 @@ Este repositório contém três conjuntos de testes automatizados.
 
 ## **Teste Mobile**
 
-### Cenários de Testes## 
+### Cenários de Testes
 
 1. **Login no app**: O login é realizado com sucesso utilizando as credenciais fornecidas.
     - **Status**: Pass ✅
