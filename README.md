@@ -9,7 +9,7 @@
 
 ### Cenários de Testes
 
-1. **Login bem-sucedido:**: O usuário deve conseguir fazer login com o e-mail e senha corretos.  
+1. **Login bem-sucedido**: O usuário deve conseguir fazer login com o e-mail e senha corretos.  
    - **Status**: Pass ✅
 
 2. **E-mail inválido**: O sistema deve exibir um erro "E-mail inválido" quando o e-mail fornecido for inválido.  
