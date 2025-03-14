@@ -3,7 +3,7 @@
 1. **Testes de UI** para validação de login, utilizando o **Cypress**.
 2. **Testes de API** para validação dos comportamentos esperados de uma API Mock, utlizando **Cypress**.
 3. **Testes Mobile** para validação de login, logout e busca, utilizando **Maestro**.
-4. **Testes de Performance** para simular múltiplos usuários acessando a API Mock simultaneamente, utilizando **k6**.
+4. **Teste de Performance** para simular múltiplos usuários acessando a API Mock simultaneamente, utilizando **k6**.
 
 ## **Testes de UI**
 
