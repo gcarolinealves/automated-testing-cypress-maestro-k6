@@ -59,7 +59,7 @@
 
 ### Cenários de Testes
 
-1. Configurar um teste de carga para 10 usuários acessando a API Mock simultaneamente.  
+1. Avaliar o desempenho da API com 10 usuários acessando a API Mock simultaneamente.  
 
    - **Status**: Pass ✅
 
