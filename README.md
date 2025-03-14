@@ -67,19 +67,19 @@ Este repositório contém três conjuntos de testes automatizados.
 
 ### Resultados
 
-**Número de amostras**: 50
-**Tempo médio de resposta**: 61.63 ms
-**Tempo mínimo**: 6.44 ms
-**Tempo máximo**: 261.75 ms
-**Desvio padrão**: 47.47 ms
-**Código de resposta**: 200 (OK)
-**Erros**: 0%
-**Throughput**: 9.35 requisições/seg
-**Dados recebidos**: 33 KB
-**Dados enviados**: 4.4 KB
-**Tamanho médio da resposta**: 6933.6 bytes
+- **Número de amostras**: 50
+- **Tempo médio de resposta**: 61.63 ms
+- **Tempo mínimo**: 6.44 ms
+- **Tempo máximo**: 261.75 ms
+- **Desvio padrão**: 47.47 ms
+- **Código de resposta**: 200 (OK)
+- **Erros**: 0%
+- **Throughput**: 9.35 requisições/seg
+- **Dados recebidos**: 33 KB
+- **Dados enviados**: 4.4 KB
+- **Tamanho médio da resposta**: 6933.6 bytes
 ##
 Aplicação Web Testada: https://automationpratice.com.br/login<br>
-API Mock Testada: https://restful-api.dev/
-App Android Testado: Wikipedia
+API Mock Testada: https://restful-api.dev/<br>
+App Android Testado: Wikipedia<br>
 API Mock do Teste de Performance: https://github.com/qazando/wiremock
