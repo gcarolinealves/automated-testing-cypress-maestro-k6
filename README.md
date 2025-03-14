@@ -5,7 +5,7 @@
 3. **Testes Mobile** para validação de login, logout e busca, utilizando **Maestro**.
 4. **Testes de Performance** para simular múltiplos usuários acessando a API Mock simultaneamente, utilizando **k6**.
 
-## **Testes de UI - Login de Usuário**
+## **Testes de UI**
 
 ### Cenários de Testes
 
@@ -42,7 +42,7 @@
    - **Objetivo**: Validar se um dispositivo foi excluído corretamente.
    - **Status**: Pass ✅
 
-## **Teste Mobile**
+## **Testes Mobile**
 
 ### Cenários de Testes
 
